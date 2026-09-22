@@ -455,3 +455,23 @@ footer {
     line-height: 1.45;
   }
 }
+
+
+.paper-link {
+  color: inherit;
+}
+
+.paper-link:hover {
+  color: #70b6ff;
+}
+
+.contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
+}
+
+.footer-links {
+  display: flex;
+  gap: 20px;
+}
