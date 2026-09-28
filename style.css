@@ -475,3 +475,29 @@ footer {
   display: flex;
   gap: 20px;
 }
+
+
+.publication-note {
+  color: #8290a4;
+  font-weight: 400;
+}
+
+.presentations {
+  margin-top: 9px;
+  color: #8493a8;
+  font-size: 0.86rem;
+  line-height: 1.6;
+}
+
+.presentations-label {
+  color: #aab6c8;
+  font-weight: 600;
+}
+
+.presentations a {
+  color: #5aaaff;
+}
+
+.presentations a:hover {
+  text-decoration: underline;
+}
